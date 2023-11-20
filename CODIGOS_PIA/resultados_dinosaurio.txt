@@ -1,0 +1,3 @@
+Nombre: TYRANNOSAURUS
+Peso en KG: 8000.00
+Longitud en Metros: 9.14
